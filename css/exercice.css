@@ -53,6 +53,20 @@
 }
 /* 5. exercice-5 */
 
+/* 5. exercice-5 */
+.exercice-5 .container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+}
+.exercice-5 .element{
+  display: flex;
+  flex-direction: row;
+  height: 20px;
+  
+}
 /* 6. exercice-6 */
 
 /* 7. exercice-7 */
