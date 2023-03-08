@@ -47,6 +47,10 @@
   display: flex;
   order: 1;
 }
+.exercice-4 .element-box{
+  display: flex;
+  justify-content: center;
+}
 /* 5. exercice-5 */
 
 /* 6. exercice-6 */
